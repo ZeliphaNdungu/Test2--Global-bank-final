@@ -20,6 +20,13 @@ Global Bank has the following information for the last 5 years and intends to us
 ![image](https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/e11f357d-3530-4246-81c4-5f33a7bc1685)
 
 **4.Visualization on PowerBI**
+<img width="881" alt="image" src="https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/1a6ffec0-06c9-452a-9b26-d67eebb7b999">
+<img width="875" alt="image" src="https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/92b6f1f9-c789-4563-ae58-538d36b153ee">
+<img width="860" alt="image" src="https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/6e720cf7-51af-4b78-ad05-dbc5caa61b4d">
+<img width="716" alt="image" src="https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/29472ad6-27a2-4ff1-ba6d-6d06f61b03dc">
+<img width="622" alt="image" src="https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/3b60f201-9410-42a9-bf49-a47a00dfbcbc">
+<img width="756" alt="image" src="https://github.com/ZeliphaNdungu/Test2--Global-bank-final/assets/164329394/a5a96bd9-f52c-467a-b635-5a7d713df5b8">
+
 
 **5.Insights**
 
